@@ -1,0 +1,22 @@
+//@version=6
+indicator("GBPUSD SMC PRO V6.0 Professional", overlay=true, max_labels_count=500, max_lines_count=500)
+
+//==================================================
+// GBPUSD SMC PRO V6.0
+// Professional Smart Money Concept Engine
+//==================================================
+
+// Version
+version = "V6.0"
+
+// Future modules:
+// 1. Core Trend Engine
+// 2. Multi Timeframe Bias
+// 3. BOS / CHoCH
+// 4. Liquidity Sweep
+// 5. Fair Value Gap
+// 6. Order Block
+// 7. Entry Score
+// 8. Risk Engine
+// 9. Dashboard
+// 10. Alerts
