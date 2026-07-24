@@ -1,0 +1,1 @@
+# GBPUSD-SMC-PRO-V6
